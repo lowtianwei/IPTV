@@ -2,3 +2,5 @@
 http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://i.imgur.com/yLNUK1u.png" group-title="Singapore",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-logo="https://i.imgur.com/o9WqoGe.png" group-title="Undefined",Channel 5
+https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
