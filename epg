@@ -1,0 +1,678 @@
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20221211092319 +0800" generator-info-name="epg.pm" generator-info-url="https://epg.pm/channels/3218/20221211.html" source-info-name="Global EPG" source-info-url="https://epg.pm/api/epg.xml?channel_id=3218&amp;date=20221211&amp;timezone=None">
+  <channel id="3218">
+    <display-name lang="Hong Kong">翡翠台</display-name>
+  </channel>
+  <programme channel="3218" start="20221211000000 +0000" stop="20221211003000 +0000">
+    <title lang="zh">塔斯曼尼亞的日與夜[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211003000 +0000" stop="20221211010000 +0000">
+    <title lang="zh">塔斯曼尼亞的日與夜[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211010000 +0000" stop="20221211013000 +0000">
+    <title lang="zh">藝文誌[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211013000 +0000" stop="20221211020000 +0000">
+    <title lang="zh">機界戰隊[粵/日] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211020000 +0000" stop="20221211021500 +0000">
+    <title lang="zh">喵星人看世界[粵/韓] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211021500 +0000" stop="20221211023000 +0000">
+    <title lang="zh">喵星人看世界[粵/韓] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211023000 +0000" stop="20221211030000 +0000">
+    <title lang="zh">問問 Master Joe[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211030000 +0000" stop="20221211033000 +0000">
+    <title lang="zh">講清講楚[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211033000 +0000" stop="20221211035500 +0000">
+    <title lang="zh">你還好嗎[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211035500 +0000" stop="20221211040000 +0000">
+    <title lang="zh">宣傳易[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211040000 +0000" stop="20221211050000 +0000">
+    <title lang="zh">明星愛廚房[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211050000 +0000" stop="20221211051500 +0000">
+    <title lang="zh">午間新聞[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211051500 +0000" stop="20221211062000 +0000">
+    <title lang="zh">街頭魔法王2[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211062000 +0000" stop="20221211065000 +0000">
+    <title lang="zh">星級超常任務[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211065000 +0000" stop="20221211072000 +0000">
+    <title lang="zh">星級超常任務[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211072000 +0000" stop="20221211075500 +0000">
+    <title lang="zh">輝哥為食遊 II[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211075500 +0000" stop="20221211080000 +0000">
+    <title lang="zh">超級勁歌推介[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211080000 +0000" stop="20221211083000 +0000">
+    <title lang="zh">KERORO 軍曹[粵/日] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211083000 +0000" stop="20221211090000 +0000">
+    <title lang="zh">Hands Up[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211090000 +0000" stop="20221211091500 +0000">
+    <title lang="zh">喜羊羊與灰太狼之運動英雄傳筐出勝利[粵/普] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211091500 +0000" stop="20221211093000 +0000">
+    <title lang="zh">激爆世紀 樽甲彈蓋人DX[粵/日] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211093000 +0000" stop="20221211100000 +0000">
+    <title lang="zh">櫻桃小丸子[粵/日] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211100000 +0000" stop="20221211103000 +0000">
+    <title lang="zh">尋味貴辣[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211103000 +0000" stop="20221211105500 +0000">
+    <title lang="zh">六點半新聞報道[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211105500 +0000" stop="20221211110000 +0000">
+    <title lang="zh">天氣報告[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211110000 +0000" stop="20221211113000 +0000">
+    <title lang="zh">星期日檔案[粵/普] 及 創科新領域[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211113000 +0000" stop="20221211113500 +0000">
+    <title lang="zh">警聲百二秒[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211113500 +0000" stop="20221211120000 +0000">
+    <title lang="zh">東張西望[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211120000 +0000" stop="20221211123000 +0000">
+    <title lang="zh">愛．回家之開心速遞#1802[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211123000 +0000" stop="20221211133000 +0000">
+    <title lang="zh">開心無敵獎門人[粵][PG]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211133000 +0000" stop="20221211150000 +0000">
+    <title lang="zh">中年好聲音[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211150000 +0000" stop="20221211151500 +0000">
+    <title lang="zh">勁歌金曲[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211151500 +0000" stop="20221211153000 +0000">
+    <title lang="zh">晚間新聞[粵] 及 天氣報告[粵] 及 創科新領域[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211153000 +0000" stop="20221211160000 +0000">
+    <title lang="zh">財經透視[粵/普]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211160000 +0000" stop="20221211163000 +0000">
+    <title lang="zh">傳承·經典55:男親女愛#76[粵][PG] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211163000 +0000" stop="20221211170000 +0000">
+    <title lang="zh">傳承·經典55:男親女愛#77[粵][PG] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211170000 +0000" stop="20221211173500 +0000">
+    <title lang="zh">傳承·經典55:男親女愛#78[粵][PG] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211173500 +0000" stop="20221211174500 +0000">
+    <title lang="zh">宣傳易[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211174500 +0000" stop="20221211181500 +0000">
+    <title lang="zh">東張西望[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211181500 +0000" stop="20221211191000 +0000">
+    <title lang="zh">勇往直前戀上你#35[粵/普] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211191000 +0000" stop="20221211201000 +0000">
+    <title lang="zh">街頭魔法王2[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211201000 +0000" stop="20221211204000 +0000">
+    <title lang="zh">星級超常任務[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211204000 +0000" stop="20221211210500 +0000">
+    <title lang="zh">星級超常任務[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211210500 +0000" stop="20221211220000 +0000">
+    <title lang="zh">明星愛廚房[粵]</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211220000 +0000" stop="20221211234000 +0000">
+    <title lang="zh">香港早晨[粵] 及 交通消息[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221211234000 +0000" stop="20221212000000 +0000">
+    <title lang="zh">香港早晨[粵] 及 交通消息[粵] </title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3218" start="20221212001000 +0000" stop="20221212010000 +0000">
+    <title lang="zh">香港早晨[粵] 及 齊來學習二十大[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212010000 +0000" stop="20221212013000 +0000">
+    <title lang="zh">交易現場[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212013000 +0000" stop="20221212014500 +0000">
+    <title lang="zh">深港滬通[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212014500 +0000" stop="20221212015000 +0000">
+    <title lang="zh">超級勁歌推介[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212015000 +0000" stop="20221212020000 +0000">
+    <title lang="zh">快樂長門人[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212020000 +0000" stop="20221212023000 +0000">
+    <title lang="zh">真情#922[粵][PG] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212023000 +0000" stop="20221212033000 +0000">
+    <title lang="zh">大漢情緣雲中歌#30[粵/普] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212033000 +0000" stop="20221212033500 +0000">
+    <title lang="zh">宣傳易[粵] 及 新聞提要[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212033500 +0000" stop="20221212034500 +0000">
+    <title lang="zh">交易現場[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212034500 +0000" stop="20221212044000 +0000">
+    <title lang="zh">華麗轉身#10[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212044000 +0000" stop="20221212044500 +0000">
+    <title lang="zh">宣傳易[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212044500 +0000" stop="20221212045500 +0000">
+    <title lang="zh">交易現場[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212045500 +0000" stop="20221212050000 +0000">
+    <title lang="zh">齊來學習二十大[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212050000 +0000" stop="20221212052000 +0000">
+    <title lang="zh">午間新聞[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212052000 +0000" stop="20221212063500 +0000">
+    <title lang="zh">流行都市[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212063500 +0000" stop="20221212064000 +0000">
+    <title lang="zh">宣傳易[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212064000 +0000" stop="20221212064500 +0000">
+    <title lang="zh">交易現場[粵] 及 深港滬通[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212064500 +0000" stop="20221212074500 +0000">
+    <title lang="zh">掌上明珠#24[粵][PG]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212074500 +0000" stop="20221212081500 +0000">
+    <title lang="zh">櫻桃小丸子[粵/日] 及 交易現場[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212081500 +0000" stop="20221212085000 +0000">
+    <title lang="zh">寶石寵物[粵/日] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212085000 +0000" stop="20221212092000 +0000">
+    <title lang="zh">Hands Up[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212092000 +0000" stop="20221212095000 +0000">
+    <title lang="zh">多啦A夢[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212095000 +0000" stop="20221212100000 +0000">
+    <title lang="zh">財經新聞[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212100000 +0000" stop="20221212103000 +0000">
+    <title lang="zh">你好陌生人[粵] 及 新聞檔案[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212103000 +0000" stop="20221212111500 +0000">
+    <title lang="zh">六點半新聞報道[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212111500 +0000" stop="20221212112500 +0000">
+    <title lang="zh">世界觀[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212112500 +0000" stop="20221212113000 +0000">
+    <title lang="zh">天氣報告[粵] 及 齊來學習二十大[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212113000 +0000" stop="20221212113500 +0000">
+    <title lang="zh">創科新領域[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212113500 +0000" stop="20221212120000 +0000">
+    <title lang="zh">東張西望[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212120000 +0000" stop="20221212123000 +0000">
+    <title lang="zh">愛．回家之開心速遞#1803[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212123000 +0000" stop="20221212133000 +0000">
+    <title lang="zh">法證先鋒V#21[粵][PG]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212133000 +0000" stop="20221212143000 +0000">
+    <title lang="zh">輕．功#6[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212143000 +0000" stop="20221212150500 +0000">
+    <title lang="zh">大牌筵席[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212150500 +0000" stop="20221212151500 +0000">
+    <title lang="zh">一念之間[粵] 及 環球新聞檔案[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212151500 +0000" stop="20221212154500 +0000">
+    <title lang="zh">晚間新聞[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212154500 +0000" stop="20221212155000 +0000">
+    <title lang="zh">創科新領域[粵] 及 新聞檔案[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212155000 +0000" stop="20221212155500 +0000">
+    <title lang="zh">天氣報告[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212155500 +0000" stop="20221212160500 +0000">
+    <title lang="zh">娛樂頭條[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212160500 +0000" stop="20221212163500 +0000">
+    <title lang="zh">傳承·經典55:男親女愛#79[粵][PG] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212163500 +0000" stop="20221212170500 +0000">
+    <title lang="zh">傳承·經典55:男親女愛#80[粵][PG] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212170500 +0000" stop="20221212173000 +0000">
+    <title lang="zh">傳承·經典55:男親女愛#81[粵][PG] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212173000 +0000" stop="20221212174000 +0000">
+    <title lang="zh">宣傳易[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212174000 +0000" stop="20221212181000 +0000">
+    <title lang="zh">東張西望[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212181000 +0000" stop="20221212191500 +0000">
+    <title lang="zh">流行都市[粵]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212191500 +0000" stop="20221212201500 +0000">
+    <title lang="zh">無間音樂[粵][PG] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212201500 +0000" stop="20221212210000 +0000">
+    <title lang="zh">掌上明珠#24[粵][PG]</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212210000 +0000" stop="20221212220000 +0000">
+    <title lang="zh">是日播映完畢</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212220000 +0000" stop="20221212234000 +0000">
+    <title lang="zh">香港早晨[粵] 及 交通消息[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212234000 +0000" stop="20221212234500 +0000">
+    <title lang="zh">環球新聞檔案[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3218" start="20221212234500 +0000" stop="20221213000000 +0000">
+    <title lang="zh">香港早晨[粵] 及 交通消息[粵] </title>
+    <date>2022-12-12</date>
+  </programme>
+</tv>
+<tv date="20221211092638 +0800" generator-info-name="epg.pm" generator-info-url="https://epg.pm/channels/3377/20221211.html" source-info-name="Global EPG" source-info-url="https://epg.pm/api/epg.xml?channel_id=3377&amp;date=20221211&amp;timezone=None">
+  <channel id="3377">
+    <display-name lang="Malaysia">8TV</display-name>
+  </channel>
+  <programme channel="3377" start="20221211003000 +0000" stop="20221211013000 +0000">
+    <title lang="zh">Wow Shop</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211013000 +0000" stop="20221211023000 +0000">
+    <title lang="zh">Eternal Love of Dream</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211023000 +0000" stop="20221211043000 +0000">
+    <title lang="zh">Wow Shop</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211043000 +0000" stop="20221211050000 +0000">
+    <title lang="zh">Midday Mandarin News</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211050000 +0000" stop="20221211055700 +0000">
+    <title lang="zh">Wow Shop</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211055700 +0000" stop="20221211060000 +0000">
+    <title lang="zh">8 E-News Capsule</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211060000 +0000" stop="20221211070000 +0000">
+    <title lang="zh">The Legend of Taiwan 15</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211070000 +0000" stop="20221211085700 +0000">
+    <title lang="zh">China's Got Talent</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211085700 +0000" stop="20221211090000 +0000">
+    <title lang="zh">8 E-News Capsule</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211090000 +0000" stop="20221211100000 +0000">
+    <title lang="zh">Rebirth of Shopping Addict</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211100000 +0000" stop="20221211103000 +0000">
+    <title lang="zh">The Hidden Gems</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211103000 +0000" stop="20221211110000 +0000">
+    <title lang="zh">Ho Chak!</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211110000 +0000" stop="20221211120000 +0000">
+    <title lang="zh">A Love of No Words</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211120000 +0000" stop="20221211130000 +0000">
+    <title lang="zh">Mandarin News</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211130000 +0000" stop="20221211133000 +0000">
+    <title lang="zh">Click to Health</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211133000 +0000" stop="20221211153000 +0000">
+    <title lang="zh">A Chinese Ghost Story II</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211153000 +0000" stop="20221211173000 +0000">
+    <title lang="zh">The Treasured Voice</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211173000 +0000" stop="20221211230000 +0000">
+    <title lang="zh">8FM @ 8TV</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221211230000 +0000" stop="20221212000000 +0000">
+    <title lang="zh">Living Delight</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="3377" start="20221212000000 +0000" stop="20221212003000 +0000">
+    <title lang="zh">Old Is Gold</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212003000 +0000" stop="20221212013000 +0000">
+    <title lang="zh">Wow Shop</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212013000 +0000" stop="20221212014500 +0000">
+    <title lang="zh">8TV Morning Express</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212014500 +0000" stop="20221212023500 +0000">
+    <title lang="zh">The Legend of Taiwan 12</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212023500 +0000" stop="20221212043000 +0000">
+    <title lang="zh">Wow Shop</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212043000 +0000" stop="20221212050000 +0000">
+    <title lang="zh">Midday Mandarin News</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212050000 +0000" stop="20221212060000 +0000">
+    <title lang="zh">Wow Shop</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212060000 +0000" stop="20221212070000 +0000">
+    <title lang="zh">Living Delight</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212070000 +0000" stop="20221212073000 +0000">
+    <title lang="zh">Living Delight X Wowshop</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212073000 +0000" stop="20221212092800 +0000">
+    <title lang="zh">Great Times</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212092800 +0000" stop="20221212093000 +0000">
+    <title lang="zh">Living Delight X Wowshop Express</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212093000 +0000" stop="20221212100000 +0000">
+    <title lang="zh">8 E-News</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212100000 +0000" stop="20221212105800 +0000">
+    <title lang="zh">The Imperial Coroner</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212105800 +0000" stop="20221212110000 +0000">
+    <title lang="zh">Living Delight Highlights</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212110000 +0000" stop="20221212115800 +0000">
+    <title lang="zh">The Ringmaster</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212115800 +0000" stop="20221212120000 +0000">
+    <title lang="zh">8 E-News Highlights</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212120000 +0000" stop="20221212130000 +0000">
+    <title lang="zh">Mandarin News</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212130000 +0000" stop="20221212140000 +0000">
+    <title lang="zh">The Blue Whisper</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212140000 +0000" stop="20221212150000 +0000">
+    <title lang="zh">One the Woman</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212150000 +0000" stop="20221212163000 +0000">
+    <title lang="zh">The Long Ballad</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212163000 +0000" stop="20221212173000 +0000">
+    <title lang="zh">Crouching Tiger Hidden Ghost</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212173000 +0000" stop="20221212230000 +0000">
+    <title lang="zh">8FM @ 8TV</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221212230000 +0000" stop="20221213000000 +0000">
+    <title lang="zh">Living Delight</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="3377" start="20221213000000 +0000" stop="20221214000000 +0000">
+    <title lang="zh">Old Is Gold</title>
+    <date>2022-12-13</date>
+  </programme>
+</tv>
+<tv date="20221211092808 +0800" generator-info-name="epg.pm" generator-info-url="https://epg.pm/channels/7493/20221211.html" source-info-name="Global EPG" source-info-url="https://epg.pm/api/epg.xml?channel_id=7493&amp;date=20221211&amp;timezone=None">
+  <channel id="7493">
+    <display-name lang="Taiwan">星衛HD電影台</display-name>
+  </channel>
+  <programme channel="7493" start="20221211012000 +0000" stop="20221211033000 +0000">
+    <title lang="zh">男兒本色(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211033000 +0000" stop="20221211053800 +0000">
+    <title lang="zh">拆彈專家2(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211053800 +0000" stop="20221211073300 +0000">
+    <title lang="zh">霹靂油俠(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211073300 +0000" stop="20221211092300 +0000">
+    <title lang="zh">唐伯虎點秋香(普)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211092300 +0000" stop="20221211114200 +0000">
+    <title lang="zh">我的少女時代(普)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211114200 +0000" stop="20221211133000 +0000">
+    <title lang="zh">葉問前傳(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211133000 +0000" stop="20221211150400 +0000">
+    <title lang="zh">*焚身(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211150400 +0000" stop="20221211165400 +0000">
+    <title lang="zh">古惑仔: 江湖新秩序(輔15)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211165400 +0000" stop="20221211182800 +0000">
+    <title lang="zh">反收數特遣隊(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211182800 +0000" stop="20221211202300 +0000">
+    <title lang="zh">順流逆流(輔15)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211202300 +0000" stop="20221211220800 +0000">
+    <title lang="zh">碧藍之海劇場版(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211220800 +0000" stop="20221211235300 +0000">
+    <title lang="zh">人生按個讚(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221211235300 +0000" stop="20221212000000 +0000">
+    <title lang="zh">暗戰2(護)</title>
+    <date>2022-12-11</date>
+  </programme>
+  <programme channel="7493" start="20221212014200 +0000" stop="20221212033200 +0000">
+    <title lang="zh">黃金兄弟(護)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212033200 +0000" stop="20221212054000 +0000">
+    <title lang="zh">救火英雄(護)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212054000 +0000" stop="20221212074600 +0000">
+    <title lang="zh">特警新人類 2 機動任務(護)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212074600 +0000" stop="20221212095600 +0000">
+    <title lang="zh">李宗偉：敗者為王(普)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212095600 +0000" stop="20221212113800 +0000">
+    <title lang="zh">大四喜(普)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212113800 +0000" stop="20221212133000 +0000">
+    <title lang="zh">奇謀妙計五福星(護)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212133000 +0000" stop="20221212151900 +0000">
+    <title lang="zh">功夫聯盟(普)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212151900 +0000" stop="20221212171200 +0000">
+    <title lang="zh">我是自願讓他殺了我(輔12)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212171200 +0000" stop="20221212185200 +0000">
+    <title lang="zh">靈異405號房(輔15)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212185200 +0000" stop="20221212203700 +0000">
+    <title lang="zh">紅衣小女孩2(輔15)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212203700 +0000" stop="20221212212500 +0000">
+    <title lang="zh">青洲山上(護)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212212500 +0000" stop="20221212233000 +0000">
+    <title lang="zh">人妖打排球之再戰金剛芭比(護)</title>
+    <date>2022-12-12</date>
+  </programme>
+  <programme channel="7493" start="20221212233000 +0000" stop="20221213000000 +0000">
+    <title lang="zh">物怪(護)</title>
+    <date>2022-12-12</date>
+  </programme>
+</tv>
+
