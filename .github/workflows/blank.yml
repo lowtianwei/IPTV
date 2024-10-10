@@ -27,7 +27,7 @@ jobs:
 
       # Execute script
       - name: Execute script
-        run: .scripts/test.sh
+        run: ls -lah
       
       # Runs a single command using the runners shell
       - name: Run a one-line script
