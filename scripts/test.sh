@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "HIHIHi"
+curl icanhazip.com
