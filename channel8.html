@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simple Dash.js Video Player</title>
+  <title>Widevine DRM Protected Content with Dash.js</title>
   <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
   <style>
     body {
@@ -26,36 +26,28 @@
   <video id="videoPlayer" controls></video>
 
   <script>
-    function init() {
-        var protData = {
-            "com.widevine.alpha": {
-                "serverURL": "https://drm-widevine-licensing.axtest.net/AcquireLicense",
-                "httpRequestHeaders": {
-                    "X-AxDRM-Message": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ewogICJ2ZXJzaW9uIjogMSwKICAiY29tX2tleV9pZCI6ICI2OWU1NDA4OC1lOWUwLTQ1MzAtOGMxYS0xZWI2ZGNkMGQxNGUiLAogICJtZXNzYWdlIjogewogICAgInR5cGUiOiAiZW50aXRsZW1lbnRfbWVzc2FnZSIsCiAgICAidmVyc2lvbiI6IDIsCiAgICAibGljZW5zZSI6IHsKICAgICAgImFsbG93X3BlcnNpc3RlbmNlIjogdHJ1ZQogICAgfSwKICAgICJjb250ZW50X2tleXNfc291cmNlIjogewogICAgICAiaW5saW5lIjogWwogICAgICAgIHsKICAgICAgICAgICJpZCI6ICIzMDJmODBkZC00MTFlLTQ4ODYtYmNhNS1iYjFmODAxOGEwMjQiLAogICAgICAgICAgImVuY3J5cHRlZF9rZXkiOiAicm9LQWcwdDdKaTFpNDNmd3YremZ0UT09IiwKICAgICAgICAgICJ1c2FnZV9wb2xpY3kiOiAiUG9saWN5IEEiCiAgICAgICAgfQogICAgICBdCiAgICB9LAogICAgImNvbnRlbnRfa2V5X3VzYWdlX3BvbGljaWVzIjogWwogICAgICB7CiAgICAgICAgIm5hbWUiOiAiUG9saWN5IEEiLAogICAgICAgICJwbGF5cmVhZHkiOiB7CiAgICAgICAgICAibWluX2RldmljZV9zZWN1cml0eV9sZXZlbCI6IDE1MCwKICAgICAgICAgICJwbGF5X2VuYWJsZXJzIjogWwogICAgICAgICAgICAiNzg2NjI3RDgtQzJBNi00NEJFLThGODgtMDhBRTI1NUIwMUE3IgogICAgICAgICAgXQogICAgICAgIH0KICAgICAgfQogICAgXQogIH0KfQ._NfhLVY7S6k8TJDWPeMPhUawhympnrk6WAZHOVjER6M"
-                },
-                priority: 0
-            }
-        };
-        var video,
-            player,
-            url = "https://media.axprod.net/TestVectors/Cmaf/protected_1080p_h264_cbcs/manifest.mpd";
+    // DASH stream URL (Widevine-protected content)
+    var url = 'https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/ks/djJ8MTQ3fDgnb8s1XGqRiw0qOOwJCA_NiZgVa_Alfce6NMQVxop7woYE1ptlDq9QsDx_sqLTq84yRgznnyxGYWK_nlOFbm-kFClnQ8Y6ToEeJGLHJ5ueShnZuio_4xeEZV9pPcgRHAgwsj8H9AJQ4uGmgPR1XBwfgciQzpoUBBcRbyjrw7ykjmht-WswFgi9VtHILOZXeCOtMm0eDKv06afX40divWfLILqDe2mdLxVwx3l_pW4fbT4mSv3tpqbPRClNZaHuGpzLzASRb-Sj6zEVlKMKQ2z-USUq5RzYO3l6fDbUSKmGrmoHdwZJ_sPyjhWp8hwn8-hwNT-AJHafhbl81DTd7UpdMpR5gtsavLWuVb8U_rf6XsvXz7DsXZQk0hyzMg-u9GPP1ezKdnjoWfhswVYsc-wgMV-0ZSPa1BJrwZweNhY7MVuy89xmWtPndT6z3RE7xvUVtS6gnXjQ7XGHd4fcczPVRAPNxMKrPZVzB9Elqvrjsj6ooyKJ3IRYf_A5q7WYBQt0809JPkAQxVDZUIWNczI=/a.mpd'; // Replace with your actual DASH URL
 
-        video = document.querySelector("#videoPlayer");
-        player = dashjs.MediaPlayer().create();
-        player.initialize(video, url, true);
-        player.setProtectionData(protData);
-    }
+    // License server URL for Widevine (provided by your content provider)
+    var widevineLicenseServerUrl = 'https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEZ25iOHMxWEdxUml3MHFPT3dKQ0FfTmlaZ1ZhX0FsZmNlNk5NUVZ4b3A3d29ZRTFwdGxEcTlRc0R4X3NxTFRxODR5Umd6bm55eEdZV0tfbmxPRmJtLWtGQ2xuUThZNlRvRWVKR0xISjV1ZVNoblp1aW9fNHhlRVpWOXBQY2dSSEFnd3NqOEg5QUpRNHVHbWdQUjFYQndmZ2NpUXpwb1VCQmNSYnlqcnc3eWtqbWh0LVdzd0ZnaTlWdEhJTE9aWGVDT3RNbTBlREt2MDZhZlg0MGRpdldmTElMcURlMm1kTHhWd3gzbF9wVzRmYlQ0bVN2M3RwcWJQUkNsTlphSHVHcHpMekFTUmItU2o2ekVWbEtNS1Eyei1VU1VxNVJ6WU8zbDZmRGJVU0ttR3Jtb0hkd1pKX3NQeWpoV3A4aHduOC1od05ULUFKSGFmaGJsODFEVGQ3VXBkTXBSNWd0c2F2TFd1VmI4VV9yZjZYc3ZYejdEc1haUWswaHl6TWctdTlHUFAxZXpLZG5qb1dmaHN3VllzYy13Z01WLTBaU1BhMUJKcndad2VOaFk3TVZ1eTg5eG1XdFBuZFQ2ejNSRTd4dlVWdFM2Z25YalE3WEdIZDRmY2N6UFZSQVBOeE1LclBaVnpCOUVscXZyanNqNm9veUtKM0lSWWZfQTVxN1dZQlF0MDgwOUpQa0FReFZEWlVJV05jekk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfMDEyZGQ5YmNkNTE5X2Ntbl8yIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRGduYjhzMVhHcVJpdzBxT093SkNBX05pWmdWYV9BbGZjZTZOTVFWeG9wN3dvWUUxcHRsRHE5UXNEeF9zcUxUcTg0eVJnem5ueXhHWVdLX25sT0ZibS1rRkNsblE4WTZUb0VlSkdMSEo1dWVTaG5adWlvXzR4ZUVaVjlwUGNnUkhBZ3dzajhIOUFKUTR1R21nUFIxWEJ3ZmdjaVF6cG9VQkJjUmJ5anJ3N3lram1odC1Xc3dGZ2k5VnRISUxPWlhlQ090TW0wZURLdjA2YWZYNDBkaXZXZkxJTHFEZTJtZEx4Vnd4M2xfcFc0ZmJUNG1TdjN0cHFiUFJDbE5aYUh1R3B6THpBU1JiLVNqNnpFVmxLTUtRMnotVVNVcTVSellPM2w2ZkRiVVNLbUdybW9IZHdaSl9zUHlqaFdwOGh3bjgtaHdOVC1BSkhhZmhibDgxRFRkN1VwZE1wUjVndHNhdkxXdVZiOFVfcmY2WHN2WHo3RHNYWlFrMGh5ek1nLXU5R1BQMWV6S2Ruam9XZmhzd1ZZc2Mtd2dNVi0wWlNQYTFCSnJ3WndlTmhZN01WdXk4OXhtV3RQbmRUNnozUkU3eHZVVnRTNmduWGpRN1hHSGQ0ZmNjelBWUkFQTnhNS3JQWlZ6QjlFbHF2cmpzajZvb3lLSjNJUllmX0E1cTdXWUJRdDA4MDlKUGtBUXhWRFpVSVdOY3pJPSIsInVkaWQiOiI3M2U3MjEyZi00NTU3LTQwMmEtYWUzYy04ZDJmYWU3OWE0MDIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=jtVokYAhARWOkb5kTosJ1oecohg%3d'; // Replace with actual license server URL
 
-    function check() {
-        if (location.protocol === 'http:' && location.hostname !== 'localhost') {
-            var out = 'This page has been loaded under http. This might result in the EME APIs not being available to the player and any DRM-protected content will fail to play. ' +
-                'If you wish to test manifest URLs that require EME support, then <a href=\'https:' + window.location.href.substring(window.location.protocol.length) + '\'>reload this page under https</a>.'
-            var div = document.getElementById('http-warning');
-            div.innerHTML = out;
-            div.style.display = ''
-        }
-    }
-</script>
+    // Create Dash.js player instance
+    var video = document.querySelector("#videoPlayer");
+    var player = dashjs.MediaPlayer().create();
+
+    // Set up Widevine protection data
+    var protectionData = {
+      "com.widevine.alpha": {
+        "serverURL": widevineLicenseServerUrl
+      }
+    };
+
+    // Initialize the Dash.js player with DRM
+    player.initialize(video, url, true);
+    player.setProtectionData(protectionData);
+
+  </script>
 
 </body>
 </html>
