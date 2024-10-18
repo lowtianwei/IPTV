@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My IPTV</title>
+  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+    }
+    video {
+      width: 80%;
+      max-width: 800px;
+      height: auto;
+      border: 2px solid #333;
+    }
+  </style>
+</head>
+<body>
+
+  <video id="videoPlayer" controls></video>
+
+  <script>
+    // DASH stream URL (Widevine-protected content)
+    var url = 'https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/9826991/contextType/PLAYBACK/isAltUrl/False/ks/djJ8MTQ3fCj_OridTSwceoW9_27oFtl2oaR1OpAqoC_VQBI8wRqeooefG4rP4s78vYzHBQ7x2HYnnmNGR-LhlURxRHiud5e-5I928Up8KqA3SVFN8r22IPjoIeUL9pYjSkD0vcNj45ZnFmM2wc7qQXTfxBNjPpT--s6_SNiDBQRj9b7fcPctdNa5l5YJDXwufu6eVCLgroMvEGM2JHk-mIZiLOgZLxA39Qigz1sdR0AR_9AgiV457Rn5JF_Sa4Sghs7c3_NOyFfZbzBlqMgR2H-aUuduOXoKvYTaFRB6D2S1JQrHMrib7wfU8nbMSErd1MgdW5bfCW9eriU_NvqaPpUMjfcYfh72r8xX0vvU0w37X6UqWrhFDPgayg6Nd5r9Yqw8N2grN9tCd09QKkuVX_c7y4msmIICekBUcYmJJaIotIoAfqeOw7J5eLxDVUUxWnzzCycq6xn81cU2_K5KQX685KbCTIaOCTv5O27Z_dRPW14myWoswFhw7CySGrm0vW9gnTmwhF70WTawup02TSYsYMgI1bn1Se6FD1Xmn29K7VFkmD21/a.mpd'; // Replace with your actual DASH URL
+
+    // License server URL for Widevine (provided by your content provider)
+    var widevineLicenseServerUrl = 'https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDal9PcmlkVFN3Y2VvVzlfMjdvRnRsMm9hUjFPcEFxb0NfVlFCSTh3UnFlb29lZkc0clA0czc4dll6SEJRN3gySFlubm1OR1ItTGhsVVJ4UkhpdWQ1ZS01STkyOFVwOEtxQTNTVkZOOHIyMklQam9JZVVMOXBZalNrRDB2Y05qNDVabkZtTTJ3YzdxUVhUZnhCTmpQcFQtLXM2X1NOaURCUVJqOWI3ZmNQY3RkTmE1bDVZSkRYd3VmdTZlVkNMZ3JvTXZFR00ySkhrLW1JWmlMT2daTHhBMzlRaWd6MXNkUjBBUl85QWdpVjQ1N1JuNUpGX1NhNFNnaHM3YzNfTk95RmZaYnpCbHFNZ1IySC1hVXVkdU9Yb0t2WVRhRlJCNkQyUzFKUXJITXJpYjd3ZlU4bmJNU0VyZDFNZ2RXNWJmQ1c5ZXJpVV9OdnFhUHBVTWpmY1lmaDcycjh4WDB2dlUwdzM3WDZVcVdyaEZEUGdheWc2TmQ1cjlZcXc4TjJnck45dENkMDlRS2t1VlhfYzd5NG1zbUlJQ2VrQlVjWW1KSmFJb3RJb0FmcWVPdzdKNWVMeERWVVV4V256ekN5Y3E2eG44MWNVMl9LNUtRWDY4NUtiQ1RJYU9DVHY1TzI3Wl9kUlBXMTRteVdvc3dGaHc3Q3lTR3JtMHZXOWduVG13aEY3MFdUYXd1cDAyVFNZc1lNZ0kxYm4xU2U2RkQxWG1uMjlLN1ZGa21EMjEmY29udGV4dFR5cGU9bm9uZSZpZD05ODI2OTkxIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF8yMDA0NWM0M2U5ZTlfY21uXzIiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDal9PcmlkVFN3Y2VvVzlfMjdvRnRsMm9hUjFPcEFxb0NfVlFCSTh3UnFlb29lZkc0clA0czc4dll6SEJRN3gySFlubm1OR1ItTGhsVVJ4UkhpdWQ1ZS01STkyOFVwOEtxQTNTVkZOOHIyMklQam9JZVVMOXBZalNrRDB2Y05qNDVabkZtTTJ3YzdxUVhUZnhCTmpQcFQtLXM2X1NOaURCUVJqOWI3ZmNQY3RkTmE1bDVZSkRYd3VmdTZlVkNMZ3JvTXZFR00ySkhrLW1JWmlMT2daTHhBMzlRaWd6MXNkUjBBUl85QWdpVjQ1N1JuNUpGX1NhNFNnaHM3YzNfTk95RmZaYnpCbHFNZ1IySC1hVXVkdU9Yb0t2WVRhRlJCNkQyUzFKUXJITXJpYjd3ZlU4bmJNU0VyZDFNZ2RXNWJmQ1c5ZXJpVV9OdnFhUHBVTWpmY1lmaDcycjh4WDB2dlUwdzM3WDZVcVdyaEZEUGdheWc2TmQ1cjlZcXc4TjJnck45dENkMDlRS2t1VlhfYzd5NG1zbUlJQ2VrQlVjWW1KSmFJb3RJb0FmcWVPdzdKNWVMeERWVVV4V256ekN5Y3E2eG44MWNVMl9LNUtRWDY4NUtiQ1RJYU9DVHY1TzI3Wl9kUlBXMTRteVdvc3dGaHc3Q3lTR3JtMHZXOWduVG13aEY3MFdUYXd1cDAyVFNZc1lNZ0kxYm4xU2U2RkQxWG1uMjlLN1ZGa21EMjEiLCJ1ZGlkIjoiNzNlNzIxMmYtNDU1Ny00MDJhLWFlM2MtOGQyZmFlNzlhNDAyIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=DEp%2f8eErHww7AqZXHkVYS4L4TRo%3d'; // Replace with actual license server URL
+
+    // Create Dash.js player instance
+    var video = document.querySelector("#videoPlayer");
+    var player = dashjs.MediaPlayer().create();
+
+    // Set up Widevine protection data
+    var protectionData = {
+      "com.widevine.alpha": {
+        "serverURL": widevineLicenseServerUrl
+      }
+    };
+
+    // Initialize the Dash.js player with DRM
+    player.initialize(video, url, true);
+    player.setProtectionData(protectionData);
+
+  </script>
+
+</body>
+</html>
