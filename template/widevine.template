@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="meWatch" tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_8.png",Ch 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={$drm}
-{$url}
+#KODIPROP:inputstream.adaptive.license_key={#DRM}
+{#URL}
