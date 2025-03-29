@@ -1,110 +1,151 @@
-#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVS"  tvg- tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
-https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
-https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
-https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
-https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
-
-#EXTINF:-1 group-title="kids" tvg-id="CartoonNetwork " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
-https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
-https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",Best Fm
-https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Kool101.png",Kool 101
-https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="ERA" tvg-name="Era Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
-https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Fly FM" tvg-name="Fly Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",Fly Fm
-https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Hitz FM" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",Hitz Fm
-https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Johor FM" tvg-name=" Johor FM " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",Johor Fm
-https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="NASFM" tvg-name="Nasional Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
-https://mifntechnology.github.io/siaranMy/radio/NasionalFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Klasik FM" tvg-name="Radio Klasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",Radio Klasik
-https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Sinar FM" tvg-name="Sinar Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
-https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Suria FM" tvg-name="Suria Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
-https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Ria FM" tvg-name="Ria89.7 Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",Ria897Fm
-https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Asyik FM" tvg-name="Asyik Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",AsyikFm
-https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Eight FM" tvg-name="8 Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
-https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
-
+#EXTM3U
+#EXTINF:-1,28 AI 智慧賽馬
+http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+#EXTINF:-1,Channel 5 HD
+http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1,Channel 8 HD
 http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1,Channel U HD
+http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1,myTV SUPER 18台
+http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,PopC
+http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1,ROCK Action
+http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,TVB Plus
+http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvN
+http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,中天新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1,千禧經典台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,娛樂新聞台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+#EXTINF:-1,寰宇新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+#EXTINF:-1,明珠剧集台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1,明珠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,無線新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+#EXTINF:-1,美亞電影台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1,翡翠剧集台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1,翡翠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1,翡翠台 4K
+http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+#EXTINF:-1,翡翠综合台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,鳳凰中文
+http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,鳳凰資訊
+http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,鳳凰香港
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+#EXTINF:-1,黃金翡翠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,AXN
+http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,Love Nature HD
+http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,National Geographic
+http://aktv-stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
+#EXTINF:-1,无线新闻台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1,東森新聞
+http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1,Animax(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1,DW
+http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1,France 24
+http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1,KIX
+http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,NHK World-Japan
+http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1,NHK東京総合
+http://aktv-stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1,Nick Jr
+http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1,Nickelodeon
+http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1,Thrill
+http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,Xite Hits
+http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+#EXTINF:-1,Xite Rock
+http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+#EXTINF:-1,ZooMoo
+http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1,亞洲新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,東方衛視國際頻道
+http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+#EXTINF:-1,無線衛星新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,Celestial Movies
+http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+#EXTINF:-1,CINEMAWORLD
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1,Mediacorp Entertainment Chinese
+http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+#EXTINF:-1,NBA TV
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1,Sukan
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+#EXTINF:-1,TV9
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+#EXTINF:-1,TVB Jade
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1,TVB Xing He
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+#EXTINF:-1,Unifi Sport
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1,曼聯電視頻道
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1,朝鮮恩情台
+http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+#EXTINF:-1,ELTV生活英語台
+http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+#EXTINF:-1,三立新聞iNEWS
+http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+#EXTINF:-1,中視
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+#EXTINF:-1,中視新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1,倪珍英語新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
+#EXTINF:-1,台視
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+#EXTINF:-1,台視新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+#EXTINF:-1,華視
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+#EXTINF:-1,龍華偶像台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1,龍華日韓台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1,龍華經典台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+#EXTINF:-1,龍華電影台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1,Astro Football
+http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1,Astro IQIYI
+http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1,Astro QJ
+http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+#EXTINF:-1,Astro 欢喜台
+http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+#EXTINF:-1,NTV NEWS 24
+http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+#EXTINF:-1,viuTV
+http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
