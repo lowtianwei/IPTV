@@ -1,128 +1,42 @@
 #EXTM3U
 #EXTINF:-1 group-title="meWatch" tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_8.png",Ch 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBU1hRb2Y3SVBSODdJbkhVT1A5SG43SlpablhRcU5zbUlTUGJpTnE4d0Z0a29ydTlHUWpnXy03SWszelptWWpnYS1JeG8xSXpxUEc1Ny1jNG5Hcnh1OURZZHFRTmRUemw4V0xBSk5iZDU4eGFNMHMyZWhwTllPOTFudFZMS0ZOLWVoNTd3QzJlVmpHU2Z1VEFxeGNsTFhaYUJIbHotQ1I0c3E3aW84QjAybFQ0dXNnZHIyaHBlc0ZRVnIwR2Z4M3Utb1RHT1ZPMmVrYldkNmVNaWpIQW9rS2RmN0plNHFlQXoyM0RzU3RXU055ZGlwR0FDNnViX0hXYS14TWVKbFRUa2JKbkFCRTVjWGs5MUYtYTlkUGFxc2V5OE91N3hlcllRUEkwNGxLcjVZaW5hOWJZX24yRHViMFZQa0lSanNTVDVicGZjUzd3T1VzV20xOWVPdGk5Szg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9OTgyNjk5MSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfMjAwNDVjNDNlOWU5X2Ntbl8yIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQVNYUW9mN0lQUjg3SW5IVU9QOUhuN0paWm5YUXFOc21JU1BiaU5xOHdGdGtvcnU5R1FqZ18tN0lrM3pabVlqZ2EtSXhvMUl6cVBHNTctYzRuR3J4dTlEWWRxUU5kVHpsOFdMQUpOYmQ1OHhhTTBzMmVocE5ZTzkxbnRWTEtGTi1laDU3d0MyZVZqR1NmdVRBcXhjbExYWmFCSGx6LUNSNHNxN2lvOEIwMmxUNHVzZ2RyMmhwZXNGUVZyMEdmeDN1LW9UR09WTzJla2JXZDZlTWlqSEFva0tkZjdKZTRxZUF6MjNEc1N0V1NOeWRpcEdBQzZ1Yl9IV2EteE1lSmxUVGtiSm5BQkU1Y1hrOTFGLWE5ZFBhcXNleThPdTd4ZXJZUVBJMDRsS3I1WWluYTliWV9uMkR1YjBWUGtJUmpzU1Q1YnBmY1M3d09Vc1dtMTllT3RpOUs4PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=O0CGHiMuOa2nI3t5LkBDfjcaaLk%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDNDViaVdWU0xkRjY3azRZQUxmLTdiQ0ZhM1JLV0hxbEVhRjZpN2FPNGh0NmNxeUZkb1JxQ2Q3RW5SaENkNHFJN3pUaGJ4X05PbW9IUEpjQjJNN253NmtmN3BKMlk4Mk5RV0FUdVc1cm5MVFZ0NS1yQktzcFFtNjRhSUZKQmtHTGw3aXBROXpLY0trbGhpdWhtc3BGMkc1U2hDWUxCQlF2ZTZUZHE3OGRoSm9NQTIyODlpc0lRaEtOOWVCN2JPb2ozc2ZLbWQ3djhMUC1oVl9jSzN0R0w3U0lYNUNFQTZQU3BMUTQ4cXR6Z1BIZEpTTUwwWERZSmdYSURsSGhxVVBHamdpOE51VWwxcmltb2tGNnpCZHlvQk5YbXVfOThrcG95ZGY1R3g3a0RRMFlOTkk2VVU5bXpndW5NNHZldTc2NHlVbGZSOTN4Wkxxd1YwOUE2MUFwUWFRaVN1WXpUV2hzVzI1Tkt5X2t2UnomY29udGV4dFR5cGU9bm9uZSZpZD05ODI2OTkxIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF8yMDA0NWM0M2U5ZTlfY21uXzIiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDNDViaVdWU0xkRjY3azRZQUxmLTdiQ0ZhM1JLV0hxbEVhRjZpN2FPNGh0NmNxeUZkb1JxQ2Q3RW5SaENkNHFJN3pUaGJ4X05PbW9IUEpjQjJNN253NmtmN3BKMlk4Mk5RV0FUdVc1cm5MVFZ0NS1yQktzcFFtNjRhSUZKQmtHTGw3aXBROXpLY0trbGhpdWhtc3BGMkc1U2hDWUxCQlF2ZTZUZHE3OGRoSm9NQTIyODlpc0lRaEtOOWVCN2JPb2ozc2ZLbWQ3djhMUC1oVl9jSzN0R0w3U0lYNUNFQTZQU3BMUTQ4cXR6Z1BIZEpTTUwwWERZSmdYSURsSGhxVVBHamdpOE51VWwxcmltb2tGNnpCZHlvQk5YbXVfOThrcG95ZGY1R3g3a0RRMFlOTkk2VVU5bXpndW5NNHZldTc2NHlVbGZSOTN4Wkxxd1YwOUE2MUFwUWFRaVN1WXpUV2hzVzI1Tkt5X2t2UnoiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=34T7JXbuEwAhIKTj%2bE%2bfNZHzwhE%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/9826991/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="meWatch" tvg-id="Ch 5" tvg-name="Ch 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_5.png",Ch 5
+#EXTINF:-1 group-title="meWatch" tvg-id="Ch 5" tvg-name="Ch 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_5.png",Ch 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIWGUtY2xTUEtyQ3VqRnAyQUN3X0JfbEZsbHJETVJsVzhmelc5RGRLVU51TUJldk1jVm5Yd0gxektJeldXWmw5M1oxa3BrQ1NuYkR2cHJRV0hZajNwelhfV3hwQ0tVMkoyRUtrVk9BRGhoZnVNOEpGV09RNmk5UEN1bFlXWmlmOGlIanZLa2hBSDAwNDBRb2lINWdqTGp2VmdiY3VsU1JtYjJlSHM3RE1MLThNbGdReUZ1WDhkb3BXTUhyc0VJbXphZXptdTBneUpoLUgtVkRfWm4yODdSUU9heTlHWkU3NVJqZjdpNGtHcUlMTVlUaGlxS0hrNjNFaDZ4SDdtYXB1c2pNeWVFVEZ2Z1VrRXBxV051NjdtUmJqYi1KVDdHWGhQSTJpQmg2U0tPaWhvUWdKZmhYSjJ3M2p2VHNqMjlPQ2E4T25KeE9SalZ5Y1k4Z1JnamZIckJ1OHZZdTR2YWJoRWNzaGYxMFViMmUmY29udGV4dFR5cGU9bm9uZSZpZD0xMDkzODE1MCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfZTliYTU3YjE2Mjc2X2NtbiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkhYZS1jbFNQS3JDdWpGcDJBQ3dfQl9sRmxsckRNUmxXOGZ6VzlEZEtVTnVNQmV2TWNWblh3SDF6S0l6V1dabDkzWjFrcGtDU25iRHZwclFXSFlqM3B6WF9XeHBDS1UySjJFS2tWT0FEaGhmdU04SkZXT1E2aTlQQ3VsWVdaaWY4aUhqdktraEFIMDA0MFFvaUg1Z2pManZWZ2JjdWxTUm1iMmVIczdETUwtOE1sZ1F5RnVYOGRvcFdNSHJzRUltemFlem11MGd5SmgtSC1WRF9abjI4N1JRT2F5OUdaRTc1UmpmN2k0a0dxSUxNWVRoaXFLSGs2M0VoNnhIN21hcHVzak15ZUVURnZnVWtFcHFXTnU2N21SYmpiLUpUN0dYaFBJMmlCaDZTS09paG9RZ0pmaFhKMnczanZUc2oyOU9DYThPbkp4T1JqVnljWThnUmdqZkhyQnU4dll1NHZhYmhFY3NoZjEwVWIyZSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=xX2sebNXcsmC2TgQSYfAE1I%2fG2c%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/10938150/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="meWatch" tvg-id="Ch U" tvg-name="Ch U" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_U.png",Ch U
+#EXTINF:-1 group-title="meWatch" tvg-id="Ch U" tvg-name="Ch U" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_U.png",Ch 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBT0JrWXE3SHJjNHF3VTdoV0FaVmx5czA3c3dnaTZ3SjZMUXZKNzg1aV9vMURwSXJWR3JjeUhyLXRKY1dSWjAxSDd2TFVFdXg0WFBralZ5b3hTeDBWSkJaS29Ld0pXSDktRG5id3lRZmswcUlSODBxYkN5SXNYV0w1SjFwVGpYZzNBa1BZLWFSb0trYi11RlZaOGQxTlZkLTJWOTlFNU94NWo4aXoybHpEWlpxSnZpcHhwRlc1S1RRT2ZLRElsRzdzcDlMb3h5SkZQS3FlQmYzNzBwVTJtUHZ2dUVxd0FXUmJvNUdBOVFqNFNyYkpySW9TVFhaZllOQzNaNm42cG1rclJ3TFhqTlBHXzNEWHBwenhheEswTEh3OFh3eVB4YUdlRE1EdGZDS0RZWXVGT0FOaGRXOGVsNFg4QU5wRE9wV1NwZFR6ZW1Pb2VrajVtZzVFT1p3RktyWUh5RVhmYTJwYlpJd1NYMkhJU3QmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU3IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfZGFzaF81NzFiMjM4OWY0MjBfdHZfMiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkFPQmtZcTdIcmM0cXdVN2hXQVpWbHlzMDdzd2dpNndKNkxRdko3ODVpX28xRHBJclZHcmN5SHItdEpjV1JaMDFIN3ZMVUV1eDRYUGtqVnlveFN4MFZKQlpLb0t3SldIOS1EbmJ3eVFmazBxSVI4MHFiQ3lJc1hXTDVKMXBUalhnM0FrUFktYVJvS2tiLXVGVlo4ZDFOVmQtMlY5OUU1T3g1ajhpejJsekRaWnFKdmlweHBGVzVLVFFPZktESWxHN3NwOUxveHlKRlBLcWVCZjM3MHBVMm1QdnZ1RXF3QVdSYm81R0E5UWo0U3JiSnJJb1NUWFpmWU5DM1o2bjZwbWtyUndMWGpOUEdfM0RYcHB6eGF4SzBMSHc4WHd5UHhhR2VETUR0ZkNLRFlZdUZPQU5oZFc4ZWw0WDhBTnBET3BXU3BkVHplbU9vZWtqNW1nNUVPWndGS3JZSHlFWGZhMnBiWkl3U1gySElTdCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=4DlPII2001TeacCvoMlAHfXnWwY%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMOHZzeDItRURMYUpZTFozS1hjb0dCdmVINW5mNmxNY2xkWUo4SDcwNlR6VDVENXY0REZZMzByWmpMU0IydlctbUx3RjB4NDhmMktrSXBoMGpEd3EtQWRhdlRERGh6dE1UVE5ZdVU5TWhibHp2QzgwUEk5bXlQUUxfRWhPc0FKN01wVGdMRkJtakEtSHJYYnozd0doTjBoTm43ckJQaEdYc1d5ekpmeEZFQjRiOTgyZjktN0VhQVJqNDBOX1NBc3gxb3ZDcXpTNGJKSjNBT1Rvd2JrZFRlNUd6QVlRQXNZNzZsTjdIbEZsSWZTSm1VUm5zc0tRS21BYjdrRDNqUXdLVWwweUhFcVREc3RERS1zQjlhLVVEcE9ZdnNjNVRiR1RkTC1sTUNWLUtTZ19sTFprM192VGJDWnhQT2JvY0FIaXlPQWFiYmQ5VklCWkJ6UzI2MTBBMFpzVF9ZdTVYd2hDa1ZOR0VjSGpmeG8mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU3IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfZGFzaF81NzFiMjM4OWY0MjBfdHZfMiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkw4dnN4Mi1FRExhSllMWjNLWGNvR0J2ZUg1bmY2bE1jbGRZSjhINzA2VHpUNUQ1djRERlkzMHJaakxTQjJ2Vy1tTHdGMHg0OGYyS2tJcGgwakR3cS1BZGF2VEREaHp0TVRUTll1VTlNaGJsenZDODBQSTlteVBRTF9FaE9zQUo3TXBUZ0xGQm1qQS1IclhiejN3R2hOMGhObjdyQlBoR1hzV3l6SmZ4RkVCNGI5ODJmOS03RWFBUmo0ME5fU0FzeDFvdkNxelM0YkpKM0FPVG93YmtkVGU1R3pBWVFBc1k3NmxON0hsRmxJZlNKbVVSbnNzS1FLbUFiN2tEM2pRd0tVbDB5SEVxVERzdERFLXNCOWEtVURwT1l2c2M1VGJHVGRMLWxNQ1YtS1NnX2xMWmszX3ZUYkNaeFBPYm9jQUhpeU9BYWJiZDlWSUJaQnpTMjYxMEEwWnNUX1l1NVh3aENrVk5HRWNIamZ4byIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=ToIqVAk4iKlOO%2ff9zxawM1cAwHk%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="meWatch" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_CNA.png",CNA
+#EXTINF:-1 group-title="meWatch" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_CNA.png",Ch 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGLUI4eFJEVHdxR2VMbmxiR2R3aHhjQnpZQmc3ZlBOQXJkRWpzN0tjVm1GRGxvRTY5Y3FhRVBQV2VYeC1wV1pFaWR2MFY0bkNQdnh0NlhSTmR1QmhMbEVnQmVhdXJVdGljMTRqemVrWFVZMmlIYkxsRVROOVQ1X1ZwQ1ZZeU1Yck8wQzRRNmFvc0NROVlMdzRRYlRtbVRlb1Z3RkFHUXo2YVFWVThmSTZFUVQxa1lZVzBLbjBJNU1leHZaMzg3aVg2VWNlME82MkpsSnFJSGUxcko2R2tiWVR4YnVBUTFTYXY4bDlqVE1kUHVMRDg4b2g5cTZRSUloNUk4OEtqOUZYbTNweE9VZ3pMRjZvbms1N0ZrcDlWc2ExQXhWUmhkQ3hmWWk4ektva2hlc1VMeS1IbnZvTTZ0THFVRklKSFBXLXI1blJrdUNSUjU0Z3NCdmJHZHBNZ2M9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE0OSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoXzdlZTEwYWIzMmRkY190dl8yIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRi1COHhSRFR3cUdlTG5sYkdkd2h4Y0J6WUJnN2ZQTkFyZEVqczdLY1ZtRkRsb0U2OWNxYUVQUFdlWHgtcFdaRWlkdjBWNG5DUHZ4dDZYUk5kdUJoTGxFZ0JlYXVyVXRpYzE0anpla1hVWTJpSGJMbEVUTjlUNV9WcENWWXlNWHJPMEM0UTZhb3NDUTlZTHc0UWJUbW1UZW9Wd0ZBR1F6NmFRVlU4Zkk2RVFUMWtZWVcwS24wSTVNZXh2WjM4N2lYNlVjZTBPNjJKbEpxSUhlMXJKNkdrYllUeGJ1QVExU2F2OGw5alRNZFB1TEQ4OG9oOXE2UUlJaDVJODhLajlGWG0zcHhPVWd6TEY2b25rNTdGa3A5VnNhMUF4VlJoZEN4ZllpOHpLb2toZXNVTHktSG52b002dExxVUZJSkhQVy1yNW5Sa3VDUlI1NGdzQnZiR2RwTWdjPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=VxnTYb0IJloxdpcY%2fGe7ODJegNs%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U
+#EXTINF:-1 group-title="meWatch" tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_8.png",Ch 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGQ01EZDhoTmhUcVhHUDAyZlpiVXV0Y2VuN1VCYmh6SUQ2ZjEzbnk3aEVrZTJiUDdZb2hYNjl4UXZCbWs2YTE3eFdscFlRTi1WaXBEbkhfbDJYOGthUkk3NTZycGI3WUlrU2RlSmswVWRxTndSMURrVVpiTWdVUUI5UTRGbnBKSFZHbXVvdkt6dEMzb19McDBTV2ladEZRLWVOSmlRSjVsOGV2SXRJcnhLcmtTYS1ZWEJucDQ5RzBsR3hsVzBiR2J3azFtYllWM2hGR1JBdWRTcF9WXzdrOGZZakxlYmpxOV9xWHBCUUllX1YzcUZOQ2lyd3RSTUNIeHZnRjVIdFMzQWw3bGw2V1NuYldVNk8zRERDMkNMaWJ6ODAzVXZTZG4yeFV5d1hfWmhSb3VNRy1WaEdMLUpRcHI4SG50NkZuQU1hdEFCMjRtVkdOUjRpWmY4OE8wWkI3T1JPOEwwM1JqNmJLclBWdGxOTnkmY29udGV4dFR5cGU9bm9uZSZpZD05ODI2OTkxIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF8yMDA0NWM0M2U5ZTlfY21uXzIiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZGQ01EZDhoTmhUcVhHUDAyZlpiVXV0Y2VuN1VCYmh6SUQ2ZjEzbnk3aEVrZTJiUDdZb2hYNjl4UXZCbWs2YTE3eFdscFlRTi1WaXBEbkhfbDJYOGthUkk3NTZycGI3WUlrU2RlSmswVWRxTndSMURrVVpiTWdVUUI5UTRGbnBKSFZHbXVvdkt6dEMzb19McDBTV2ladEZRLWVOSmlRSjVsOGV2SXRJcnhLcmtTYS1ZWEJucDQ5RzBsR3hsVzBiR2J3azFtYllWM2hGR1JBdWRTcF9WXzdrOGZZakxlYmpxOV9xWHBCUUllX1YzcUZOQ2lyd3RSTUNIeHZnRjVIdFMzQWw3bGw2V1NuYldVNk8zRERDMkNMaWJ6ODAzVXZTZG4yeFV5d1hfWmhSb3VNRy1WaEdMLUpRcHI4SG50NkZuQU1hdEFCMjRtVkdOUjRpWmY4OE8wWkI3T1JPOEwwM1JqNmJLclBWdGxOTnkiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=meEZRW7%2fdnPOQupB5pwbhMX93Pw%3d
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/9826991/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+#EXTINF:-1 group-title="meWatch" tvg-id="Ch 5" tvg-name="Ch 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_5.png",Ch 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJVkFBdDVLVFNkS2t4eUdBdGRCMksxSVN6UXI0VEhwUXlPWjk1NjQ0NFdSS1pKTDlnQkhYc1lWSndGSEV6M3hSNEhlRlZ1NnM2OXNMeXlWT0ZlMTdnNkZsQjRiajk0ZDRLaUV0b1Y3cUc5ajJycDhFSHhOaW1JTlMyZElVa1JLUXpGZ3NJRnVqVC1DOXFCR2dMcUc1aW41dm1KLXRrQmlMM3AyTTdCWExJU0VGSl9aRUExY2EyQ2pxejVTbG1DRjZPUnFkdW1xeFo5eVRLTGdQeWkxaHd1MlhBMHNVTTBNaDc4QzhaRG04dzVraEZqN2NpeTh1TVhYYTNwdnVJTmpjTmFib3BUbE5wZUJoMUdKaXNzNThpVHdWaFdpZG5NYlJCaG1rY0ZoU3dJYzFoOEdvR0RaOFpMM08zRnhSRk1jMVN6akc0ckVoWDZMbGhpVGJBQll4UFpVNHJMSXBkQlRwaWpXSUphczBqekwmY29udGV4dFR5cGU9bm9uZSZpZD0xMDkzODE1MCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfZTliYTU3YjE2Mjc2X2NtbiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZklWQUF0NUtUU2RLa3h5R0F0ZEIySzFJU3pRcjRUSHBReU9aOTU2NDQ0V1JLWkpMOWdCSFhzWVZKd0ZIRXozeFI0SGVGVnU2czY5c0x5eVZPRmUxN2c2RmxCNGJqOTRkNEtpRXRvVjdxRzlqMnJwOEVIeE5pbUlOUzJkSVVrUktRekZnc0lGdWpULUM5cUJHZ0xxRzVpbjV2bUotdGtCaUwzcDJNN0JYTElTRUZKX1pFQTFjYTJDanF6NVNsbUNGNk9ScWR1bXF4Wjl5VEtMZ1B5aTFod3UyWEEwc1VNME1oNzhDOFpEbTh3NWtoRmo3Y2l5OHVNWFhhM3B2dUlOamNOYWJvcFRsTnBlQmgxR0ppc3M1OGlUd1ZoV2lkbk1iUkJobWtjRmhTd0ljMWg4R29HRFo4WkwzTzNGeFJGTWMxU3pqRzRyRWhYNkxsaGlUYkFCWXhQWlU0ckxJcGRCVHBpaldJSmFzMGp6TCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=4k0yj14dwHqtP3ECToS9jHr8FgM%3d
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/10938150/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+#EXTINF:-1 group-title="meWatch" tvg-id="Ch U" tvg-name="Ch U" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_U.png",Ch 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZObjg1QTVfaTd0RUFGU01EVmtKcUY5ZzJFbUNpTF9kNUpKUW1tNVkxeUlmQWFPV1VYc2FDekpRWTZTcDFrcFgzNzR5WnBNTjBYZm9wYVhDa0ZMRVZuZjRzMV9DWDdTay03bEl6bFdva21ialp3REljN2MyQVVlNnRQUzJUVHlEUHk0VU9ZaXQxTUZ0aG9CMjNZVF9PRGVDYWZOVXpPdnpYSFJYNGxpd3l1OEdDMzFzVVk2UlpyQmxZWWRhNk53VWpReXQ5YnRBa290cXVZdzV0b0tDZVdhdUpLeFNDbkVfSzFEV2NuMTVTc3FnYzY2SEZZdHlVMkdMaVhsaFlrTzFpejIzclQtbjFkSFg1aS1YVndfZVk5THBISGxaZHNOajVraFhpYzBmbkZwb05IalA3akNEZU40MXRnVG1CM2wxSFBUejlfdy1mZWhBNVQ3Q2VucG0wdEVHVVJ4V3RQNzhENGZ5eVVrNXFFS2QmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU3IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfZGFzaF81NzFiMjM4OWY0MjBfdHZfMiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk5uODVBNV9pN3RFQUZTTURWa0pxRjlnMkVtQ2lMX2Q1SkpRbW01WTF5SWZBYU9XVVhzYUN6SlFZNlNwMWtwWDM3NHlacE1OMFhmb3BhWENrRkxFVm5mNHMxX0NYN1NrLTdsSXpsV29rbWJqWndESWM3YzJBVWU2dFBTMlRUeURQeTRVT1lpdDFNRnRob0IyM1lUX09EZUNhZk5Vek92elhIUlg0bGl3eXU4R0MzMXNVWTZSWnJCbFlZZGE2TndValF5dDlidEFrb3RxdVl3NXRvS0NlV2F1Skt4U0NuRV9LMURXY24xNVNzcWdjNjZIRll0eVUyR0xpWGxoWWtPMWl6MjNyVC1uMWRIWDVpLVhWd19lWTlMcEhIbFpkc05qNWtoWGljMGZuRnBvTkhqUDdqQ0RlTjQxdGdUbUIzbDFIUFR6OV93LWZlaEE1VDdDZW5wbTB0RUdVUnhXdFA3OEQ0Znl5VWs1cUVLZCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=CQpHv0YDj03z0PnLm9fzHP0sUpU%3d
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:-1 group-title="meWatch" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_CNA.png",Ch 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJYVZfcHNNNzVNaWFadGJ5d1lYUG1qU1dvaUt2YUpmdlZuNGNYUlI5TzA4dGhsbGg1bzl5OXhhVVlZaEZ4aG4wS0Exdk1RbWN2S212Y2dGYndwRUlaeG01QUhCb3NRSTVxcXJNUEhfVzlIc1RhMnJ2QXNpM2NjZ3IxLWZ1SUZ4SEl4NlFmYjc2cGplaTFQUThDTjlQOVROYTNkWXBZRFZqWlNiM04tUllXWXVhZXZoUWtITWV4Tl80aC0zV3Q4R2I4RmswMl90Vk9QY2Q2SFYxUkhjbF9YODFneldnNXJSRURsN0RlOFNqbDdPdEVOU2Z0OTRsOHVnT2xzOW5PNXAzbjVsX1RMaW1qQjR0R1U2NjRibEkzQS04SmFEV1pOc0Z0YzI5aksyX3JsUFpKRGIzbmx5QUVfS3VoaDlIYTlIcEh0Wk45RGY5RklCVkRkWFpnTTVnMzA3OTZ3bWNpN1U4Q3F2U0RMR1RIMVgmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTQ5IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jbmFTX2Rhc2hfN2VlMTBhYjMyZGRjX3R2XzIiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZJYVZfcHNNNzVNaWFadGJ5d1lYUG1qU1dvaUt2YUpmdlZuNGNYUlI5TzA4dGhsbGg1bzl5OXhhVVlZaEZ4aG4wS0Exdk1RbWN2S212Y2dGYndwRUlaeG01QUhCb3NRSTVxcXJNUEhfVzlIc1RhMnJ2QXNpM2NjZ3IxLWZ1SUZ4SEl4NlFmYjc2cGplaTFQUThDTjlQOVROYTNkWXBZRFZqWlNiM04tUllXWXVhZXZoUWtITWV4Tl80aC0zV3Q4R2I4RmswMl90Vk9QY2Q2SFYxUkhjbF9YODFneldnNXJSRURsN0RlOFNqbDdPdEVOU2Z0OTRsOHVnT2xzOW5PNXAzbjVsX1RMaW1qQjR0R1U2NjRibEkzQS04SmFEV1pOc0Z0YzI5aksyX3JsUFpKRGIzbmx5QUVfS3VoaDlIYTlIcEh0Wk45RGY5RklCVkRkWFpnTTVnMzA3OTZ3bWNpN1U4Q3F2U0RMR1RIMVgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=HPPcoRDZHz9czyo2CSQEEZYkUZE%3d
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVS"  tvg- tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
-https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
-https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
-https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
-
-#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
-https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
-
-#EXTINF:-1 group-title="kids" tvg-id="CartoonNetwork " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
-https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
-https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",Best Fm
-https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Kool101.png",Kool 101
-https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="ERA" tvg-name="Era Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
-https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Fly FM" tvg-name="Fly Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",Fly Fm
-https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Hitz FM" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",Hitz Fm
-https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Johor FM" tvg-name=" Johor FM " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",Johor Fm
-https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="NASFM" tvg-name="Nasional Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
-https://mifntechnology.github.io/siaranMy/radio/NasionalFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Klasik FM" tvg-name="Radio Klasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",Radio Klasik
-https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Sinar FM" tvg-name="Sinar Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
-https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
- 
-#EXTINF:-1 group-title="radio" tvg-id="Suria FM" tvg-name="Suria Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
-https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Ria FM" tvg-name="Ria89.7 Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",Ria897Fm
-https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Asyik FM" tvg-name="Asyik Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",AsyikFm
-https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Eight FM" tvg-name="8 Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
-https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
