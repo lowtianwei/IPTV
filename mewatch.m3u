@@ -400,4 +400,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C2_hevc/__op/cenc_m
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/BRncamwlvxMtX/+dphhvg", "kid": "LARfWtsm05HMQc0B8AQW+g"}], "type": "temporary"}
 https://mytvsuper.tianwei.workers.dev/JUHD
 
+#EXTINF:1 group-title="test" tvg-id="test/test" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",[test] test
+http://43.199.44.238:1234/stream/test/test/master.m3u8
+
 
