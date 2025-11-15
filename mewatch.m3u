@@ -39,7 +39,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/channels/8tv/manifest.m3u8
+https://live-ssar-02.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&did=b61fd684-de39-5c14-3a14-58a0af986e9f&dnt=0&ifatype=sessionid&plt=web&lot_auds=ca_063,ca_384,ca_288,ca_184,ca_003,ca_330,ca_378,ca_365,ca_773,ca_394,ca_1034,ca_730,ca_1056,ca_1101,ca_305,ca_1035,all,ca_775,ca_803,ca_724,ca_1040,ca_1096,ca_897,,ca_797,ca_420,ca_364,ca_672,ca_972&ttd_uid2=A4AAAB8FkOo8kfBJAE_X9YRDlqaTKQgrdhED2OJqw3_Epz136G5ySLHrRGK2MAUtAR7sVPJ8kdBrgJDUdVeBUNIwe1ZMW-uQ9gYh5gttvHmOkhL6uDSAdWs3_vx28afnyIDEl535d4uC3qGCWgAhFQSxWutTAMt4pFCOaFY4mQCzWh2FoURcelv4YuEgmJ9TJ56tO6E4IPyX9fL4P-BnFeKDpA&exp=1763189520&hmac=0x26df6e6921fb1529870f0174753b1e638872c98e3111c988a93d1fc445054f8e
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
