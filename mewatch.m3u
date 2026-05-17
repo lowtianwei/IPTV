@@ -6,8 +6,6 @@
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/9826991/contextType/PLAYBACK/isAltUrl/False/ks/djJ8MTQ3fDTgfQSNK2iWy7GUkeATPYeRAAzV50gLru94P7meRZY1noNTR4bkWcrhZlaxpn8k0-zoWnQdTmg1lTRzmh_jvu8QlGVECLoMAfhsjGMUHPXAQz6vGF4YSt-VE3kDmDXQYI1tXjUfmfJQOM2rXP_yDMusyTuEryXksBgkqyQHY33QOX7rVO0bz-ch7zZ1uPENNkQDTKXn2qkdZ0FXRhWR5KVXH9IlZfqd74_w5Sd3EwCYknLhuIo2hEHu5n1q9sepXyP4wI92-8cEHyPlTIsU8zztzHmUXKpgiCClDm2ITnHQArL-aBl55GpNmryITp5VFdlErdDzQ1I_ZYqNQkN2KlOfPrpWkKrVQDZnDoa2VeKcyeQaiBE7fBjnFSbbYu1JllRdYa5ivjj7lPB1ttmDtIYjgt908yTd7moAJUJiOsGdNmRBj0e7shWcQrQJozzWkljAjrXuIC9ieTFnpVLaNZZ7UbQixanP-r6m4Wku2zGcInF6361rO1lATFXdzGvuh9MjGnLmdq7urOEEM9uJm7A_FOUW8d8QATUnicwGTFts/a.mpd
 
 #EXTINF:-1 tvg-id="LiveTV1" tvg-name="Live Stream 1" groop-title="Live",Live Stream 1
-#EXTVLCOPT:input-repeat=-1
-#EXTVLCOPT:http-reconnect=true
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://example.com/live/stream.mpd
+http://54.251.150.25/index.php?file=index.mpd
