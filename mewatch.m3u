@@ -8,4 +8,4 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 tvg-id="LiveTV1" tvg-name="Live Stream 1" groop-title="Live",Live Stream 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://54.251.150.25/index.php?file=index.mpd
+http://54.251.150.25/jade.mpd
